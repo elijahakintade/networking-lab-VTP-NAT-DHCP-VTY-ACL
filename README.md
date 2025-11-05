@@ -38,10 +38,7 @@ The lab demonstrates essential configurations across switching, routing, and acc
 - `lab-notes.md` — Step-by-step configuration and verification notes  
 - `packettracer-network-lab.pkt` — Main Packet Tracer project file  
 
----
 
-## 🚀 How to Use
+<img width="866" height="493" alt="routing and switching plus security" src="https://github.com/user-attachments/assets/554c7715-17da-4018-b3b4-a20ab599bdd5" />
 
-1. Clone the repository:  
-   ```bash
-   git clone https://github.com/yourusername/packettracer-network-services-and-security.git
+
