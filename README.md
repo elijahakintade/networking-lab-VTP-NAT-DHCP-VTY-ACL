@@ -35,8 +35,7 @@ The lab demonstrates essential configurations across switching, routing, and acc
 
 - `config-files/` — Device configuration exports  
 - `topology.png` — Network topology diagram  
-- `lab-notes.md` — Step-by-step configuration and verification notes  
-- `packettracer-network-lab.pkt` — Main Packet Tracer project file  
+- `VTP, NAT, DHCP, VTY & ACL COMBINED.pkt` — Main Packet Tracer project file  
 
 
 <img width="866" height="493" alt="routing and switching plus security" src="https://github.com/user-attachments/assets/554c7715-17da-4018-b3b4-a20ab599bdd5" />
